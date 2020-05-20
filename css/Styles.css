@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+}
+.h4{
+    font-family: 'Nunito', sans-serif;
+}
+/* Containers */
+
+.container-fluid{
+    padding: 4% 10%;
+  }
+/* Section */
+.Colored{
+    background-color: #6badd1;
+}
+.ColoredDark{
+    background-color: #212529;
+}
+/* NavBar */
+.nb{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.2rem;
+    margin-left: 4rem;
+}
+.nav-item{
+    padding: 0 15px;
+}
+.nav-link{
+    font-size: 1.1rem;
+    font-family: 'Nunito', sans-serif;
+}
+/* Title */
+.Big-Heading{
+    font-family: 'Pacifico', cursive;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    margin: 0;
+}
+.Small-Heading{
+    font-family: 'Noto Serif JP', serif;
+    margin: 0;
+}
+.title-image{
+    width: 14rem;
+    margin: 2rem 0 1rem;
+}
+.bttitle{
+    color: #212529;
+}
+.btnn{
+    margin-top: 4.5rem;
+}
+/* Promotion */
+
+.ImgPromotion{
+    height: 15%;
+    width: 80%;
+}
+/* Menu */
+.imgMenu{
+    width: 6rem;
+    float: left;
+    margin-right: 0.5rem;
+    clear: both;
+    margin-bottom: 1rem;
+}
+.CardColor{
+    background-color: #2073a1;
+    margin: 1rem 0.5rem 1rem 0.5rem;
+}
+.MenuHeading{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.1rem;
+}
+.Header{
+    font-family: 'Noto Serif JP', serif;
+    font-size: 4rem;
+}
+.Headers{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.5rem;
+}
+/* Location */
+.Map{
+    margin:2rem 4rem 2rem;
+}
+.ketLocation{
+    color: #ffffff;
+    text-align: left;
+    line-height: 2;
+    font-size: 1.2rem;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.ket{
+    color: #ffffff;
+    line-height: 2;
+    font-size: 1.5rem;
+    text-align:left;
+}
+/* Footer Section */
+.container-fluids{
+    padding: 2% 10%;
+}
+.social-icon {
+    margin: 20px 10px;
+    color:#212529;
+  }
+.social-icon:hover{
+    color: white;
+}
